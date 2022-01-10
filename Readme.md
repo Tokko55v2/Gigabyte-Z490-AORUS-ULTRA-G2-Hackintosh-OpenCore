@@ -4,13 +4,15 @@
 [![OpenCore Version](https://img.shields.io/badge/OpenCore-0.7.7-cyan.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 [![macOS Monterey](https://img.shields.io/badge/macOS-12.1-lightgrey.svg)](https://www.apple.com/macos/monterey/)
 
-## Build Info
+### General
 
-In generel I followed the OpenCore [installation Guide](https://dortania.github.io/OpenCore-Install-Guide/). 
+In general I followed the OpenCore [installation Guide](https://dortania.github.io/OpenCore-Install-Guide/). 
 * Create a bootable USBStick
   * [Installer Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 * Follow the Comet Lake instructions (config.plist)
 * and so on...
+
+## Build Info
 ### System Specs
 
 | Component           | Details                                                 |
