@@ -2,7 +2,7 @@
 [![Board](https://img.shields.io/badge/Gigabyte-Z490%20G2-green.svg)](https://www.gigabyte.com/at/Motherboard/Z490-AORUS-ULTRA-G2-rev-1x#kf)
 [![BIOS](https://img.shields.io/badge/BIOS-F21-important.svg)](https://www.gigabyte.com/at/Motherboard/Z490-AORUS-ULTRA-G2-rev-1x/support#support-dl-driver)
 [![OpenCore Version](https://img.shields.io/badge/OpenCore-0.7.7-cyan.svg)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
-[![macOS Monterey](https://img.shields.io/badge/macOS-12.2-white.svg)](https://www.apple.com/macos/monterey/)
+[![macOS Monterey](https://img.shields.io/badge/macOS-12.1-lightgrey.svg)](https://www.apple.com/macos/monterey/)
 
 ## Build Info
 
